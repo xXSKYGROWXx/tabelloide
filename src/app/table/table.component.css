@@ -1,0 +1,15 @@
+.buttons {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    background: #424242;
+    opacity: .8;
+}
+
+.buttons * {
+    border-radius: 0;
+    border-collapse: collapse;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid black;
+}
